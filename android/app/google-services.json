@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261182348696",
+    "firebase_url": "https://block-squad-clash-default-rtdb.firebaseio.com",
+    "project_id": "block-squad-clash",
+    "storage_bucket": "block-squad-clash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261182348696:android:33d21ee5122d4355355fed",
+        "android_client_info": {
+          "package_name": "com.example.bnrclash2022_blocksquad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261182348696-p240f1fbmkoih25f76e1guk8rjlmm39s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0sWgtQF_faGA_rpCCnPpq4J4P8VW7n0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261182348696-p240f1fbmkoih25f76e1guk8rjlmm39s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "261182348696-82uh5q980gumu0l1k6gnnfc7cncglmes.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bnrclash2022Blocksquad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
